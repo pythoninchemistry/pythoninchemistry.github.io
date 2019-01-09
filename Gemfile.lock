@@ -216,7 +216,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 168)
-  jekyll (~> 3.6.2)
+  jekyll (~> 3.6.3)
   rake (~> 12.3.0)
 
 BUNDLED WITH
