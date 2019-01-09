@@ -20,7 +20,7 @@ This open-source project is run from the University of Bath by:
 - [Dr. Ben Morgan](http://www.analysisandsynthesis.com/)
 - [Mr. Andrew McCluskey](http://people.bath.ac.uk/arm61)
 
-If you want to get involved and help to write for pythoninchemistry please get in touch with any of the people above.
+If you want to get involved and help to write for pythoninchemistry please get in touch with any of the people above, or checkout our organisation on [GitHub](https://github.com/pythoninchemistry).
 
 For a *very* general overview of the project, check out Andrew's [PYCON UK 2018](https://2018.pyconuk.org/) Education summit talk on YouTube.
 
