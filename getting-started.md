@@ -18,8 +18,8 @@ The best way to get started with pythoninchemistry is by working through the Dat
 - basic data analysis and statistics with `numpy`.
 
 These can be worked through from the links below:
-1. Tutorial 1 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_1.ipynb)
-2. Tutorial 2 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_2.ipynb)
-3. Tutorial 3 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_3.ipynb)
-4. Tutorial 4 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_4.ipynb)
-5. Tutorial 5 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_5.ipynb)
+[![Binder](https://img.shields.io/badge/Launch-Tutorial%201-blue.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_1.ipynb)
+[![Binder](https://img.shields.io/badge/Launch-Tutorial%202-blue.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_2.ipynb)
+[![Binder](https://img.shields.io/badge/Launch-Tutorial%203-blue.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_3.ipynb)
+[![Binder](https://img.shields.io/badge/Launch-Tutorial%204-blue.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_4.ipynb)
+[![Binder](https://img.shields.io/badge/Launch-Tutorial%205-blue.svg)](https://mybinder.org/v2/gh/pythoninchemistry/chem_data_analysis_jupyter/master?filepath=Tutorial_5.ipynb)
