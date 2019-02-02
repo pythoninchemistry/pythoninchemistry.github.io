@@ -1,7 +1,7 @@
 ---
 layout: page
 current: modules
-title:
+title: Modules
 navigation: true
 logo: 'assets/images/python_in_chemistry.png'
 class: page-template
