@@ -14,7 +14,7 @@ author: andrew
 The reproducibility of scientific data analysis has become an interesting topic recently, a quick [google search](http://lmgtfy.com/?q=reproducible+analysis) reveals numerous MOOCs, blogs, and articles talking about the importance, and lack, of reproducible analysis.
 The figure below shows the "reproducibility spectrum" as defined by [Roger D. Peng](https://doi.org/10.1126/science.1213847).
 
-![reproducibility spectrum](/assets/images/repro.png)
+![reproducibility spectrum](/assets/images/repro.jpg)
 
 The aim of reproducible research is that anyone else should be able to access the data and analysis method used on a particular piece of research and perform the same analysis and get the same results.
 The use of Python can really improve this, as the programmatic nature means that the same processes will be performed in the same order **every time**.
