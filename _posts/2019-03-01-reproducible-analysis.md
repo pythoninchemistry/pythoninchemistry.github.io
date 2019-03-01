@@ -36,7 +36,8 @@ This meant that each time Make was run if anything in the data changed the neces
 I found this particularity useful when writing the paper, as each time I changed the analysis it was simply a matter of typing "`make`" and the new paper, figures, and data would be generated.
 
 One aspect that is important for reproducibility with Python, is that all of the packages that are imported **must** run the same version as when the initial data was analysed, or else weird problems might occur.
-To achieve this I included a `pip` requirements file in the GitHub repository that included version numbers, however, this use of [conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) might be a better path in future.
+To achieve this I included a `pip` requirements file in the GitHub repository that included version numbers.
+However, the use of [conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) might be a better path in future or as [Ben Morgan](https://twitter.com/bjmorganj) does have a read out of the [current python environment](https://gist.github.com/bjmorgan/ccca6f419a45a7471d525270fdfa9d1a) at the end of the analysis workflow. 
 Another aspect was that many of the analyses required initialisation of a random sequence, which could result in small changes with each run.
 However, the packages used enabled the seeding of this random number such that the same numbers always came out the other end.
 
