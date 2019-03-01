@@ -27,7 +27,7 @@ The first task was to use [Make](https://en.wikipedia.org/wiki/Make_(software)) 
 Each of the additional steps discussed below was included in the Makefile.
 
 Each of the analyses was written as a Jupyter notebook initially when the Makefile was run nbconvert was used to convert this to a Python script and run the script (with different input parameters for different analyses).
-In future papers, I will likely remove the Jupyter notebook stage, unless I want to include textual information as Markdown in the analysis script (which I really should do in the future but time is infinite).
+In future papers, I will likely remove the Jupyter notebook stage, unless I want to include textual information as Markdown in the analysis script (which I really should do in the future but time isn't infinite).
 
 The analysis scripts will either output a figure or some data, the figures are included in the TeX file with the correct path, and the data are stored as TeX formatted strings that can be included using the `\input{path}` command.
 This meant that I could have all the data stored as nice formatted string (with experimental uncertainty etc.), however I think there is scope to improve this and build a system for generating these strings with all the uncertainties, units, etc. (that is a project for future Andrew [or maybe [James Grant](http://people.bath.ac.uk/rjg20)]).
