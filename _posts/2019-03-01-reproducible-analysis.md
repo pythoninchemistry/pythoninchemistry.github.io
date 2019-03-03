@@ -20,7 +20,7 @@ The aim of reproducible research is that anyone else should be able to access th
 The use of Python can really improve this, as the programmatic nature means that the same processes will be performed in the same order **every time**.
 
 I have recently been working on the analysis of some experimental [X-ray and neutron reflectometry measurements](https://en.wikipedia.org/wiki/X-ray_reflectivity), and in the process of writing a manuscript about the work, I determined to make a "completely reproducible workflow" for the analysis.
-This manuscript has now been published in [Physical Chemistry Chemical Physics](https://doi.org10.1039/C9CP00203K), so I felt it would be suitable to discuss how I implemented my first reproducible analysis workflow, in Python.
+This manuscript has now been published in [Physical Chemistry Chemical Physics](https://doi.org/10.1039/C9CP00203K), so I felt it would be suitable to discuss how I implemented my first reproducible analysis workflow, in Python.
 The whole workflow can be found in the electronic supplementary information for the manuscript which is available on [GitHub](https://github.com/arm61/lipids_at_airdes/tree/1.0).
 
 The first task was to use [Make](https://en.wikipedia.org/wiki/Make_(software)) to create the workflow, this allowed the paper to be written in [LaTeX](https://latex.org) and generated at will.
