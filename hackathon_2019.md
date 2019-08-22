@@ -8,11 +8,15 @@ class: page-template
 subclass: 'post page'
 ---
 
-We are excited to announce that thanks to funding from the Royal Society of Chemistry Higher Education Group we will be hosting a pythoninchemistry hackathon in late January 2020 at the University of Bath.
+We will be hosting the first [pythoninchemistry](https://pythoninchemsitry.org) hackathon in January 2020 at the University of Bath.
 
-The aim of this event will be to develop open source teaching resources (in Python) for use in the chemistry undergraduate curriculum.
-In the coming months we will be crowdsourcing ideas for particular resources and on the day groups (consisting of both experts in programming and education) will work together to develop these resources.
+The aim of this event is to develop prototype open-source teaching resources (in Python) for use in the chemistry undergraduate curriculum. 
+In the coming months we will be crowdsourcing ideas for resources that people think would be useful, or interesting, or ideally both. 
+During the hackathon, attendees will work in small groups containing experts in both programming and education, to design and then prototype new python-based teaching resources. 
 
-Limited funds mean that the number of attendees will be limited, however, lunch and travel costs (for students and early career researchers) will be included.
+Numbers are limited to 30. 
+Attendance is free, and lunch will be provided. 
+Thanks to generous funding from the Royal Society of Chemistry Higher Education Group and the University of Bath, we are able to reimburse travel costs for students and early career researchers who attend the hackathon.
 
-More details will follow, but if you are interested in getting involved please [reach out](mailto:a.r.mccluskey@bath.ac.uk), and we will include you in any future communication.
+We will update this page with more details as these are ironed out. 
+If you are interested in being involved, please [contact us](mailto:a.r.mccluskey@bath.ac.uk) and we will keep you updated.
