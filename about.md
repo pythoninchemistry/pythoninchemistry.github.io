@@ -18,7 +18,7 @@ This open-source project is run from the University of Bath by:
 
 - [Dr. Fiona Dickinson](http://www.bath.ac.uk/chemistry/contacts/academics/fiona-dickinson/)
 - [Dr. Ben Morgan](http://www.analysisandsynthesis.com/)
-- [Mr. Andrew McCluskey](http://people.bath.ac.uk/arm61)
+- [Dr. Andrew McCluskey](https://armccluskey.com)
 
 If you want to get involved and help to write for pythoninchemistry please get in touch with any of the people above, or checkout our organisation on [GitHub](https://github.com/pythoninchemistry).
 
