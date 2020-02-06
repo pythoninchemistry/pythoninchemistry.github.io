@@ -25,4 +25,4 @@ The hackathon aims to develop prototype resources that give students access to p
 - Lunch will be provided.
 - This event was made possible by financial support from the Royal Society of Chemistry Higher Education Group and the University of Bath.
 
-Please contact Andrew McCluskey a.r.mccluskey@bath.ac.uk for more information.
+Please contact [Andrew McCluskey](mailto:a.r.mccluskey@bath.ac.uk) for more information.
