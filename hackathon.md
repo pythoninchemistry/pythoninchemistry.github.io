@@ -12,6 +12,8 @@ Please click the link below and complete the Google form to request an invite to
 
 [Request an Invite](https://docs.google.com/forms/d/e/1FAIpQLSc3IOpNDM4tcPOHrIrtEEunlhgiGwbYVO5LDO-_ymu8-LTnDg/viewform?usp=sf_link)
 
+**DEADLINE TO REQUEST AN INVITE: 8TH MARCH**
+
 Where: University of Bath, Department of Chemistry
 
 When: 8th April 2020 10:00 - 16:00
