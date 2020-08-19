@@ -8,15 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-Please click the link below and complete the Google form to request an invite to the first pythoninchemistry hackathon:
-
-[Request an Invite](https://docs.google.com/forms/d/e/1FAIpQLSc3IOpNDM4tcPOHrIrtEEunlhgiGwbYVO5LDO-_ymu8-LTnDg/viewform?usp=sf_link)
-
-**DEADLINE TO REQUEST AN INVITE: 8TH MARCH**
-
-Where: University of Bath, Department of Chemistry
-
-When: 8th April 2020 10:00 - 16:00
+**Unfortunately, the Hackathon was postponed due to the COVID-19 pandemic. We hope to rearrange this event for 2021**. 
 
 The aim of this event is to bring together experts in education, experts in programming, and students, to explore the development of interactive Python-based teaching resources for use by chemistry undergraduates.
 The hackathon aims to develop prototype resources that give students access to programmatic models that demonstrate and explain chemical concepts, while also introducing them to how the underlying code makes this possible.
