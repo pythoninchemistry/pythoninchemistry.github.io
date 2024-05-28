@@ -10,4 +10,8 @@ With these conditions met, please see below for approach-specific guidence.
 
 ## Linking to an Existing Resource
 
+*More to come.*
+
 ## Adding Your Resource Directly
+
+*More to come.*
