@@ -92,7 +92,7 @@ Both techniques are fruitful but we must be cautious of introducing new Chemical
 
 <hr>
 <p align="center">
-<img src="./dimensions.png" alt="A diagram showing the three previous section headings. The title says: Dimensions of teaching programming in Chemistry" width="480">
+<img src="./assets/img/dimensions.png" alt="A diagram showing the three previous section headings. The title says: Dimensions of teaching programming in Chemistry" width="480">
 </p>
 The three dimensions summarised above can help to situate the instructor in their teaching.
 We can guess that a good practice for a comprehensive Python education would pool from all of them: a learner would learn Python for its own sake but also in the service of other Chemsitry goals, with solid fundamentals alternating with practical applications pooling from both modelling and data analysis.

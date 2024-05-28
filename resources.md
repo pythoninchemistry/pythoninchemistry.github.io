@@ -89,7 +89,7 @@ Watch this space for more news about our projects and hopefully more posts about
 
 Finally, we would like to thank everyone who joined and hope to continue the conversation with them and the [wider community online](https://github.com/orgs/pythoninchemistry/discussions).
 <p align="center">
-<img src="./group-photo.jpeg" alt="A group photograph taken at the meeting at UCL" width="480" class="center">
+<img src="./assets/img/group-photo.jpeg" alt="A group photograph taken at the meeting at UCL" width="480" class="center">
 </p>
 
 <hr>
