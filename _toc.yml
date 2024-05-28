@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Community Documentation
+    chapters:
+    - file: community-docs/code-of-conduct
+    - file: community-docs/contributing
+  - caption: Educational Resources
+    chapters:
+    - file: educational-resources/contributing
