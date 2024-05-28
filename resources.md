@@ -1,5 +1,8 @@
 # Shared Resource
 
+Miguel Rivera (UCL) & Andrew R. McCluskey (Bristol)
+
+<hr>
 This is the second blog post about the 5<sup>th</sup> of April 2024 meeting on teaching Pythin in Chemistry.
 
 ## Shared resource
@@ -91,7 +94,3 @@ Finally, we would like to thank everyone who joined and hope to continue the con
 <p align="center">
 <img src="./assets/img/group-photo.jpeg" alt="A group photograph taken at the meeting at UCL" width="480" class="center">
 </p>
-
-<hr>
-
-Miguel Rivera & Andrew McCluskey

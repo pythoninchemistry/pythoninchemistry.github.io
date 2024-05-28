@@ -1,5 +1,9 @@
 # State of Teaching
 
+Miguel Rivera (UCL) & Andrew R. McCluskey (Bristol)
+
+<hr>
+
 ## Context
 
 > What is the current state for Python in UK Chemistry degrees?
@@ -115,7 +119,3 @@ The change would have to be gradual, rolled out over the 3-4 years of a degree, 
 <hr>
 
 In the next blog post, we will discuss a platform where instructors could share their teaching resources and begin addressing these difficulties.
-
-<hr>
-
-Miguel Rivera & Andrew McCluskey
