@@ -3,6 +3,7 @@
 Miguel Rivera (UCL) & Andrew R. McCluskey (Bristol)
 
 <hr>
+
 This is the second blog post about the 5<sup>th</sup> of April 2024 meeting on teaching Pythin in Chemistry.
 
 ## Shared resource
@@ -91,6 +92,11 @@ Overall the appetite for this meeting and the quality of conversations drove hom
 Watch this space for more news about our projects and hopefully more posts about Python in Chemsitry!
 
 Finally, we would like to thank everyone who joined and hope to continue the conversation with them and the [wider community online](https://github.com/orgs/pythoninchemistry/discussions).
-<p align="center">
-<img src="./assets/img/group-photo.jpeg" alt="A group photograph taken at the meeting at UCL" width="480" class="center">
-</p>
+
+<hr>
+
+```{image} ./assets/img/group-photo.jpeg
+:alt: A group photograph taken at the meeting at UCL
+:width: 480px
+:align: center
+```
