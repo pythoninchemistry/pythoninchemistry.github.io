@@ -97,6 +97,6 @@ Finally, we would like to thank everyone who joined and hope to continue the con
 
 ```{image} ./assets/img/group-photo.jpeg
 :alt: A group photograph taken at the meeting at UCL
-:width: 480px
+:width: 600px
 :align: center
 ```
