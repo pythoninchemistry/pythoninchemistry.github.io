@@ -11,3 +11,7 @@ parts:
   - caption: Educational Resources
     chapters:
     - file: educational-resources/contributing
+  - caption: Blogs
+    chapters:
+    - file: state-of-teaching
+    - file: resources
