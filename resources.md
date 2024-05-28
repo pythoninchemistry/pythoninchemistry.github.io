@@ -1,4 +1,4 @@
-# Teaching Python in Chemistry Meeting: Shared Resource
+# Shared Resource
 
 This is the second blog post about the 5<sup>th</sup> of April 2024 meeting on teaching Pythin in Chemistry.
 

@@ -1,4 +1,4 @@
-# Teaching Python in Chemistry Meeting: State of Teaching
+# State of Teaching
 
 ## Context
 
