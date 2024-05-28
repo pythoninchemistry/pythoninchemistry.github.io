@@ -98,7 +98,7 @@ Both techniques are fruitful but we must be cautious of introducing new Chemical
 
 ```{image} ./assets/img/dimensions.png
 :alt: A diagram showing the three previous section headings. The title says "Dimensions of teaching programming in Chemistry"
-:width: 360px
+:width: 480px
 :align: center
 ```
 
