@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 parts:
+  - caption: Teaching Python in Chemistry Meeting Blogs
+    chapters:
+    - file: state-of-teaching
+    - file: resources
   - caption: Community Documentation
     chapters:
     - file: community-docs/code-of-conduct
@@ -11,7 +15,3 @@ parts:
   - caption: Educational Resources
     chapters:
     - file: educational-resources/contributing
-  - caption: Teaching Python in Chemistry Meeting Blogs
-    chapters:
-    - file: state-of-teaching
-    - file: resources
