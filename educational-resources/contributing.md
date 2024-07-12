@@ -10,7 +10,7 @@ With these conditions met, please see below for approach-specific guidence.
 
 ## Linking to an Existing Resource
 
-If you want to link an existing resource, please [edit the linked-resources file](https://github.com/pythoninchemistry/pythoninchemistry.github.io/blob/master/educational-resources/linked-resources.md) on Github (click the pen icon to edit), add your resource to the list and open a pull request on the repository. 
+If you want to link an existing resource, please [edit the linked-resources file](https://github.com/pythoninchemistry/pythoninchemistry.github.io/blob/master/educational-resources/linked-resources.md) on Github (click the pen icon to edit), add your resource to the list, commit your changes, and open a pull request on the repository. 
 We will try to address your pull request as soon as possible. 
 Please follow the format of the other resources in the list, i.e., including a name for the resource, and the host organisation. 
 
