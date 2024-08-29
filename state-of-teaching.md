@@ -103,7 +103,7 @@ Both techniques are fruitful but we must be cautious of introducing new Chemical
 ```
 
 The three dimensions summarised above can help to situate the instructor in their teaching.
-We can guess that a good practice for a comprehensive Python education would pool from all of them: a learner would learn Python for its own sake but also in the service of other Chemsitry goals, with solid fundamentals alternating with practical applications pooling from both modelling and data analysis.
+We can guess that a good practice for a comprehensive Python education would pool from all of them: a learner would learn Python for its own sake but also in the service of other Chemistry goals, with solid fundamentals alternating with practical applications pooling from both modelling and data analysis.
 However, this is only speculative and it would require more teaching time than a single module.
 
 
