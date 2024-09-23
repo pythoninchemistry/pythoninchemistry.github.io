@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 parts:
+  - caption: Python Lessons
+    chapters:
+    - file: lessons/write_run_python/write_run_python.md
+    - file: lessons/notebook/notebook.md
   - caption: Teaching Python in Chemistry Meeting Blogs
     chapters:
     - file: state-of-teaching
