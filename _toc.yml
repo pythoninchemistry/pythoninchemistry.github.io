@@ -6,8 +6,10 @@ root: intro
 parts:
   - caption: Python Lessons
     chapters:
-    - file: lessons/write_run_python/write_run_python.md
-    - file: lessons/notebook/notebook.md
+    - file: lessons/basics.md
+      sections:
+      - file: lessons/write_run_python/write_run_python.md
+      - file: lessons/notebook/notebook.md
   - caption: Teaching Python in Chemistry Meeting Blogs
     chapters:
     - file: state-of-teaching
