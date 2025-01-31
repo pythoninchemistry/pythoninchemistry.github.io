@@ -12,6 +12,7 @@ parts:
       - file: lessons/basics/notebook.md
   - caption: Teaching Python in Chemistry Meeting Blogs
     chapters:
+    - file: 2025-meeting
     - file: state-of-teaching
     - file: resources
   - caption: Community Documentation

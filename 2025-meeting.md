@@ -1,4 +1,4 @@
-# Python in Chemistry Meeting 2025
+# 2025 Python in Chemistry Meeting
 
 <hr>
 
