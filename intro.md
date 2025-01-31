@@ -3,6 +3,12 @@
 The aim of Python in Chemistry is to promote and improve coding education in the chemical sciences. 
 In these webpages, we will keep documentation about the work of the Python in Chemistry community and open-source educational material that my be used to teach Python to chemistry students. 
 
+### [Python in Chemistry Meeting 2025](https://pythoninchemistry.org/2025-meeting.html)
+
+The 2025 Python in Chemistry Meeting will take place on at the University of York on **Thursday 10th April**. To register, please complete [this form](https://forms.gle/XneX3kRxf8QG6qpf8). 
+
+The goal of the meeting is to discuss best practice in introductory Python teaching, and to produce a common resource aimed initially at helping colleagues in Chemistry departments across the UK get started with Python. More details are available [here](https://pythoninchemistry.org/2025-meeting.html).
+
 ### Get Involved
 
 The easiest way to get involved in the Python in Chemistry community is to join the [discussions on Github](https://github.com/orgs/pythoninchemistry/discussions).
