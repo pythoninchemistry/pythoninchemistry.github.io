@@ -10,6 +10,32 @@ parts:
       sections:
       - file: lessons/basics/write_run_python.md
       - file: lessons/basics/notebook.md
+    - file: lessons/manipulating_variables.md
+      sections:
+      - file: lessons/variables/Variable_data_types.ipynb
+      - file: lessons/variables/mathematical-operators.ipynb
+      - file: lessons/variables/Conditions.ipynb
+    - file: lessons/organising_code.md
+      sections:
+      - file: lessons/loops_functions/For_Loop_Lesson.ipynb
+      - file: lessons/loops_functions/PyinC_while_loops_WIP.ipynb
+      - file: lessons/loops_functions/functions_and_scope.ipynb
+    - file: lessons/files.md
+      sections:
+      - file: lessons/files/reading_files.ipynb
+      - file: lessons/files/writing_files.ipynb
+    - file: lessons/common_libraries.md
+      sections:
+      - file: lessons/common_libs/python-in-chem_pyplot_basics_SM.ipynb
+      - file: lessons/common_libs/Matplotlib_Documentation.ipynb
+      - file: lessons/common_libs/Introduction to NumPy.ipynb
+      - file: lessons/common_libs/NumPy_axes_operations.ipynb
+      - file: lessons/common_libs/intro_to_pandas.ipynb
+    - file: lessons/advanced_libraries.md
+      sections:
+      - file: lessons/advanced_libs/Intro_to_ASE.ipynb
+      - file: lessons/advanced_libs/PiC_scipy.ipynb
+      - file: lessons/advanced_libs/RDKit_drawing.ipynb
   - caption: Teaching Python in Chemistry Meeting Blogs
     chapters:
     - file: 2025-meeting
