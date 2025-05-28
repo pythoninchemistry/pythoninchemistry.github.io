@@ -10,6 +10,7 @@ author: The Python in Chemistry Community
 only_build_toc_files: true
 execute:
   execute_notebooks: force
+  allow_errors: true
 
 launch_buttons:
   notebook_interface: classic
