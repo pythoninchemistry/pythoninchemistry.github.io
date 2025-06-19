@@ -1,0 +1,1 @@
+The gas constant is: 8.314 J/K.mol

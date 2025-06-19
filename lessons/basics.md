@@ -1,3 +1,3 @@
-# Python Basics
+# Getting Started with Python
 
-Here, you will find some basic lessons in Python programming. 
+Here, you will find how to start running Python.
