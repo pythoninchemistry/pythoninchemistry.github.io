@@ -20,6 +20,7 @@ parts:
       - file: lessons/loops_functions/For_Loop_Lesson.ipynb
       - file: lessons/loops_functions/PyinC_while_loops_WIP.ipynb
       - file: lessons/loops_functions/functions_and_scope.ipynb
+      - file: lessons/loops_functions/tut_import_mod.ipynb
     - file: lessons/files.md
       sections:
       - file: lessons/files/reading_files.ipynb
