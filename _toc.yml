@@ -10,13 +10,15 @@ parts:
       sections:
       - file: lessons/basics/write_run_python.md
       - file: lessons/basics/notebook.md
+      - file: lessons/basics/python_introduction.ipynb
     - file: lessons/manipulating_variables.md
       sections:
       - file: lessons/variables/Variable_data_types.ipynb
       - file: lessons/variables/mathematical-operators.ipynb
-      - file: lessons/variables/Conditions.ipynb
+      - file: lessons/variables/Comparisons.ipynb
     - file: lessons/organising_code.md
       sections:
+      - file: lessons/loops_functions/conditional_statements.ipynb
       - file: lessons/loops_functions/For_Loop_Lesson.ipynb
       - file: lessons/loops_functions/PyinC_while_loops_WIP.ipynb
       - file: lessons/loops_functions/functions_and_scope.ipynb
