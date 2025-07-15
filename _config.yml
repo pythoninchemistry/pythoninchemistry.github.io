@@ -3,6 +3,8 @@
 
 title: Python in Chemistry
 author: The Python in Chemistry Community 
+copyright: "2025"
+
 # logo: ./logo/logo.png
 
 # Force re-execution of notebooks on each build.
