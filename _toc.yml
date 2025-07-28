@@ -25,6 +25,7 @@ parts:
       - file: lessons/loops_functions/tut_import_mod.ipynb
     - file: lessons/files.md
       sections:
+      - file: lessons/files/files_file_types.ipynb
       - file: lessons/files/reading_files.ipynb
       - file: lessons/files/writing_files.ipynb
     - file: lessons/solving-problems.md
