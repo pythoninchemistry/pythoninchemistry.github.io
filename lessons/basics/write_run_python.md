@@ -1,17 +1,75 @@
 # Writing and Running a Python Program
+
 ## Prerequisites
+
 None.
+
 ## What is a Python Program?
-Python programs are sets of instructions that a computer can follow, written in a programming language called _Python_.
 
-The Python programming language can be written on many platforms. The most common one is called a _Python program file_. This is a single plain text file ending with `.py`. You may also see them referred to as _scripts_ or _source code_. Once a Python program file is written, the user can ask the computer to follow the instructions within. This is called _running_ or _executing_ the program.
+Python programs are sets of instructions that a computer can follow, written in a programming language called *Python*.
 
-You can write such a file in any plain text editor (e.g. Notepad or TextEdit), but it is helpful to use an editor that can write and run your code in one same place. These are called _code editors_, or if they have more features, they are called an _Integrated Development Environment_ (IDE). For this lesson, we will use an IDE called _Spyder_.
+The Python programming language can be written on many platforms. The most common one is called a *Python program file*. This is a single plain text file ending with `.py`. You may also see them referred to as *scripts* or *source code*. Once a Python program file is written, the user can ask the computer to follow the instructions within. This is called *running* or *executing* the program.
+
+You can write such a file in any plain text editor (e.g. Notepad or TextEdit), but it is helpful to use an editor that can write and run your code in one same place. These are called *code editors*, or if they have more features, they are called an *Integrated Development Environment* (IDE). For this lesson, we will use an IDE called *Spyder*.
+
 # Instructions
+
+The first step is to install Python, there are various ways to do this listed below. We advise to use conda *via* the miniforge or Anaconda installations
+
+<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
+<summary style= "color:black; font-size:120%; font-weight: bold"> Miniforge Installation</summary>
+
+## Install Miniforge
+
+Miniforge is a minimal install of the *conda* and *mamba* Python package managers. It currently has no license restrictions on its use.
+
+Go to the Miniforge [repository](https://github.com/conda-forge/miniforge#install) and follow the instructions on how to install.
+
+Once installed run the following command in a terminal to make sure Python is installed
+
+```bash
+    conda install python
+```
+**Note** on Windows PCs it is necessary to open either *Miniforge Prompt* to run this command
+
+</details><br/>
+
+<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
+<summary style= "color:black; font-size:120%; font-weight: bold"> Anaconda Installation</summary>
+
 ## Install Anaconda
-Anaconda is a bundle of programs which can run and edit Python code. Check whether your computer has the program _Anaconda Navigator_. If not, **download Anaconda [here](https://www.anaconda.com/download/success).** If you are not sure which installer to download, choose the one from your operating system (Windows, Mac, or Linux), and select "Graphical Installer" if possible.
+
+Anaconda is a bundle of the *conda* package manager with a collection of programs and Python libraries. Together they can run and edit Python code. 
+
+**Note** Anaconda has a license that may restrict use of the free version, depending on what you use
+
+Go to the Anaconda [downloads](https://www.anaconda.com/download/success). If you are not sure which installer to download, choose the one from your operating system (Windows, Mac, or Linux), and select "Graphical Installer" if possible.
 
 Once it is downloaded, **open the installer and follow the instructions**.
+
+</details><br/>
+
+
+<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
+<summary style= "color:black; font-size:120%; font-weight: bold"> Basic Python Installation</summary>
+
+## Install Python
+
+The simplest way to install Python is by itself
+
+Go to the Python [downloads](https://www.python.org/downloads/) and download the latest version.
+
+Once it is downloaded, **open the installer and follow the instructions**.
+
+Python is notorious for what are called **dependency issues**. To reduce the risk of these if not using a package/environment manager such as conda you should make use of *virtual environments*. These are simple to use, for an explanation see [here](https://docs.python.org/3/library/venv.html)
+
+To create one use the following command in a terminal
+```bash
+    python -m venv /path/to/new/virtual/environment
+```
+
+</details><br/>
+
 
 ## Open Spyder
 **Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
