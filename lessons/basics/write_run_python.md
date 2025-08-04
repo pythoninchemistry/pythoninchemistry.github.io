@@ -164,10 +164,46 @@ Vscode is a general IDE that works with a range of programming languages it is p
 
 ### Open VScode
 
+If using Anaconda **Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
+
+![Window showing six logos for different programs. A red arrow points to the "Launch" button below the VS Code logo.](images/navigator_code.png)
+
+Scroll until you find the right button and **press the "Launch" under VS code.** 
+Otherwise find the VScode launch button on your desktop or program list and **click it.**
+
+This will open window that should look this:
+
+![Window separated into two panes and with a side ribbon with many options.](images/code_clean.png)
+
+### Write a Python program
+
+Click on ```New File...``` to create a new file. Type the file name ```hello_world.py``` into the input box that appears.
+
+![Window with input box for text.](images/code_filename.png)
+
+VS code will then ask you where to save this file, select an appropriate directory. This will be your *work folder*
+
+ VS code might ask to install a Python extension, if it does **agree to this**. Once the extension is installed it will ask you to choose the Python intepreter, **choose the one you wish to use**
+![Window with text Select Python Interpreter](images/code_choose_int.png)
+
+Enter the code in the text window
+![Window with large input box for text.](images/code_blank.png)
+
+```print("Hello, world!")```
+
+![Block of code with the line print("Hello, world!") written at the bottom.](images/hello_world_code.png)
+
+Save this file, either by pressing ```ctrl-s``` or ```File->Save```
+
+To run click the play button in the top right
+
+Anything that the computer writes as a result of the program is called an *output*. Read your output in the bottom pane
+
+
 </details><br/>
 
 # Advice
-You should now be in a position to write Python programs, or open pre-existing ones using File-> Open (Shortcut: Ctrl+O) on Spyder. There are many other Python code editors that work very similarly, such as _Visual Studio Code_ or _PyCharm_.
+You should now be in a position to write Python programs, or open pre-existing ones using File-> Open (Shortcut: Ctrl+O) on Spyder. There are many other Python code editors that work very similarly, such as  *PyCharm*.
 
 Some Python code does not come in Python program files. The most popular alternative is the Jupyter Notebook, which Spyder is unable to open.
 
