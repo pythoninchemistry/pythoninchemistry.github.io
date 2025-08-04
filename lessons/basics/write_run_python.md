@@ -16,10 +16,12 @@ You can write such a file in any plain text editor (e.g. Notepad or TextEdit), b
 
 The first step is to install Python, there are various ways to do this listed below. We advise to use conda *via* the miniforge or Anaconda installations
 
+## Installation
+
 <details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
 <summary style= "color:black; font-size:120%; font-weight: bold"> Miniforge Installation</summary>
 
-## Install Miniforge
+### Install Miniforge
 
 Miniforge is a minimal install of the *conda* and *mamba* Python package managers. It currently has no license restrictions on its use.
 
@@ -37,7 +39,7 @@ Once installed run the following command in a terminal to make sure Python is in
 <details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
 <summary style= "color:black; font-size:120%; font-weight: bold"> Anaconda Installation</summary>
 
-## Install Anaconda
+### Install Anaconda
 
 Anaconda is a bundle of the *conda* package manager with a collection of programs and Python libraries. Together they can run and edit Python code. 
 
@@ -53,7 +55,7 @@ Once it is downloaded, **open the installer and follow the instructions**.
 <details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
 <summary style= "color:black; font-size:120%; font-weight: bold"> Basic Python Installation</summary>
 
-## Install Python
+### Install Python
 
 The simplest way to install Python is by itself
 
@@ -70,39 +72,99 @@ To create one use the following command in a terminal
 
 </details><br/>
 
+# Writing and running your Programme
 
-## Open Spyder
-**Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
+As with installing Python there are many ways to write your program, from using a text editor to using an IDE. Below we give guidance on a couple of these methods.
 
-![Window showing six logos for different programs. A red arrow points to the "Launch" button below the Spyder logo.](navigator_spyder.png)
+This is not an exhaustive list
 
-Scroll until you find the right button and **press the "Launch" under Spyder.** This will open window that should look this:
+</details><br/>
 
-![Window titled "Spyder" separated into three panes and with a top ribbon with many options. There are three labels: A, B, and C, which respectively point to the large pane on the left, the play button on the top ribbon, and the bottom-right pane.](spyder_clean.png)
+<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
+<summary style= "color:black; font-size:120%; font-weight: bold"> Text Editor and Command line</summary>
+
+## Text Editor and Command line
+
+Perhaps the simplest method is to write your Python code in a text editor and then run on the command line, though this lacks the power of an IDE environment to make your life easier.
+
+Open the text editor of your choice and **write the following in a new file:**
+
+```print("Hello, world!")```
+
+make sure it is saved, for example as *hello_world.py*. 
+
+Open the command line window and type the following:
+
+```bash
+    python hello_world.py
+```
+
+This will run your programme and print 
+
+Hello World
+
+to your screen
+
+</details><br/>
+
+<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
+<summary style= "color:black; font-size:120%; font-weight: bold"> Spyder IDE</summary>
+
+## Using the Spyder IDE
+
+Spyder is a Python IDE that is provided with the Anaconda install, or can be installed [separately](https://www.spyder-ide.org/)
+
+
+### Open Spyder
+
+If using Anaconda **Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
+
+![Window showing six logos for different programs. A red arrow points to the "Launch" button below the Spyder logo.](images/navigator_spyder.png)
+
+Scroll until you find the right button and **press the "Launch" under Spyder.** 
+Otherwise find the Spyder launch button on your desktop or program list and **click it.**
+
+This will open window that should look this:
+
+![Window titled "Spyder" separated into three panes and with a top ribbon with many options. There are three labels: A, B, and C, which respectively point to the large pane on the left, the play button on the top ribbon, and the bottom-right pane.](images/spyder_clean.png)
 
 You may first see a pop-up suggesting to update Spyder. If so, click OK.
 
-## Write a Python program
+### Write a Python program
 The left-hand pane is where you can write your program. **On line 8, paste the following text**:
 ```print("Hello, world!")```
 
 It should look like this:
 
-![Block of code with the line print("Hello, world!") written at the bottom.](hello_world.png)
+![Block of code with the line print("Hello, world!") written at the bottom.](images/hello_world.png)
 
 This one-line program tells the computer to repeat the words "Hello, world!" to us in writing.
 
 Next, **save the program by pressing the "Save" button in the top ribbon** (Shortcut: Ctrl + S):
 
-![Top ribbon with the save button circled in red.](save.png)
-## Run a Python program
+![Top ribbon with the save button circled in red.](images/save.png)
+### Run a Python program
 To run the program, **press the "Play" button in the top ribbon** (Shortcut: F5):
 
-![Top ribbon with the play button circled in red.](run.png)
+![Top ribbon with the play button circled in red.](images/run.png)
 
-Anything that the computer writes as a result of the program is called an _output_. Read your output in the bottom-right pane:
+Anything that the computer writes as a result of the program is called an *output*. Read your output in the bottom-right pane:
 
-![Pane of text showing the words "Hello, world!" circled in red.](output.png)
+![Pane of text showing the words "Hello, world!" circled in red.](images/output.png)
+
+</details><br/>
+
+<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
+<summary style= "color:black; font-size:120%; font-weight: bold"> VScode IDE</summary>
+
+## Using the VScode IDE
+
+Vscode is a general IDE that works with a range of programming languages it is provided with the Anaconda install, or can be installed [separately](https://code.visualstudio.com/)
+
+
+### Open VScode
+
+</details><br/>
 
 # Advice
 You should now be in a position to write Python programs, or open pre-existing ones using File-> Open (Shortcut: Ctrl+O) on Spyder. There are many other Python code editors that work very similarly, such as _Visual Studio Code_ or _PyCharm_.

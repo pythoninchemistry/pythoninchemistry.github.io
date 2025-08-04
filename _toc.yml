@@ -6,7 +6,7 @@ root: intro
 parts:
   - caption: Python Lessons
     chapters:
-    - file: lessons/basics.md
+    - file: lessons/basics/basics.md
       sections:
       - file: lessons/basics/write_run_python.md
       - file: lessons/basics/notebook.md
