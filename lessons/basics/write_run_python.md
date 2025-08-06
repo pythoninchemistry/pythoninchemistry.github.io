@@ -18,10 +18,10 @@ The first step is to install Python, there are various ways to do this listed be
 
 ## Installation
 
-<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
-<summary style= "color:black; font-size:120%; font-weight: bold"> Miniforge Installation</summary>
+<details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
+<summary style= "font-size:120%; font-weight: bold"> Miniforge Installation</summary>
 
-### Install Miniforge
+<h2> Install Miniforge </h2>
 
 Miniforge is a minimal install of the *conda* and *mamba* Python package managers. It currently has no license restrictions on its use.
 
@@ -36,10 +36,11 @@ Once installed run the following command in a terminal to make sure Python is in
 
 </details><br/>
 
-<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
-<summary style= "color:black; font-size:120%; font-weight: bold"> Anaconda Installation</summary>
 
-### Install Anaconda
+<details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
+<summary style= "font-size:120%; font-weight: bold"> Anaconda Installation</summary>
+
+<h4> Install Anaconda </h4>
 
 Anaconda is a bundle of the *conda* package manager with a collection of programs and Python libraries. Together they can run and edit Python code. 
 
@@ -52,11 +53,9 @@ Once it is downloaded, **open the installer and follow the instructions**.
 </details><br/>
 
 
-<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
-<summary style= "color:black; font-size:120%; font-weight: bold"> Basic Python Installation</summary>
-
-### Install Python
-
+<details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
+<summary style= "font-size:120%; font-weight: bold"> Basic Python Installation</summary>
+<br/>
 The simplest way to install Python is by itself
 
 Go to the Python [downloads](https://www.python.org/downloads/) and download the latest version.
@@ -72,26 +71,26 @@ To create one use the following command in a terminal
 
 </details><br/>
 
+
+
 # Writing and running your Programme
 
 As with installing Python there are many ways to write your program, from using a text editor to using an IDE. Below we give guidance on a couple of these methods.
 
-This is not an exhaustive list
+This is not an exhaustive list.
 
 </details><br/>
 
-<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
-<summary style= "color:black; font-size:120%; font-weight: bold"> Text Editor and Command line</summary>
-
-## Text Editor and Command line
-
+<details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
+<summary style= "font-size:120%; font-weight: bold">Text Editor and Command line</summary>
+<br/>
 Perhaps the simplest method is to write your Python code in a text editor and then run on the command line, though this lacks the power of an IDE environment to make your life easier.
 
 Open the text editor of your choice and **write the following in a new file:**
 
 ```print("Hello, world!")```
 
-make sure it is saved, for example as *hello_world.py*. 
+Make sure it is saved, for example as *hello_world.py*. 
 
 Open the command line window and type the following:
 
@@ -101,21 +100,23 @@ Open the command line window and type the following:
 
 This will run your programme and print 
 
-Hello World
+<tt> Hello World </tt>
 
 to your screen
 
 </details><br/>
 
-<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
-<summary style= "color:black; font-size:120%; font-weight: bold"> Spyder IDE</summary>
 
-## Using the Spyder IDE
+
+<details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
+<summary style= "font-size:120%; font-weight: bold"> Spyder IDE</summary>
+
+<h4> Using the Spyder IDE </h4>
 
 Spyder is a Python IDE that is provided with the Anaconda install, or can be installed [separately](https://www.spyder-ide.org/)
 
 
-### Open Spyder
+<h5> Open Spyder </h5>
 
 If using Anaconda **Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
 
@@ -154,15 +155,17 @@ Anything that the computer writes as a result of the program is called an *outpu
 
 </details><br/>
 
-<details style="background:white; padding: 10px; border-radius: 2px; border: 1px solid black; color: black"> 
-<summary style= "color:black; font-size:120%; font-weight: bold"> VScode IDE</summary>
 
-## Using the VScode IDE
+
+<details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
+<summary style= "font-size:120%; font-weight: bold"> VScode IDE</summary>
+
+<h4> Using the VScode IDE </h4>
 
 Vscode is a general IDE that works with a range of programming languages it is provided with the Anaconda install, or can be installed [separately](https://code.visualstudio.com/)
 
 
-### Open VScode
+<h5 style="color: solid black"> Open VScode </h5>
 
 If using Anaconda **Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
 
@@ -175,7 +178,7 @@ This will open window that should look this:
 
 ![Window separated into two panes and with a side ribbon with many options.](images/code_clean.png)
 
-### Write a Python program
+<h5> Write a Python program </h5>
 
 Click on ```New File...``` to create a new file. Type the file name ```hello_world.py``` into the input box that appears.
 
