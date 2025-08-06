@@ -41,6 +41,7 @@ parts:
       - file: lessons/common_libs/Matplotlib_Documentation.ipynb
       - file: lessons/common_libs/Introduction_to_NumPy.ipynb
       - file: lessons/common_libs/NumPy_axes_operations.ipynb
+      - file: lessons/common_libs/argparse.ipynb
       - file: lessons/common_libs/intro_to_pandas.ipynb
     - file: lessons/advanced_libraries.md
       sections:
