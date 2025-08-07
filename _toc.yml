@@ -9,18 +9,18 @@ parts:
     - file: lessons/basics/basics.md
       sections:
       - file: lessons/basics/write_run_python.md
-      - file: lessons/basics/notebook.md
+      - file: lessons/basics/using_jupyter_notebook.md
       - file: lessons/basics/python_introduction.ipynb
     - file: lessons/manipulating_variables.md
       sections:
       - file: lessons/variables/Variable_data_types.ipynb
-      - file: lessons/variables/mathematical-operators.ipynb
+      - file: lessons/variables/mathematical_operators.ipynb
       - file: lessons/variables/Comparisons.ipynb
     - file: lessons/organising_code.md
       sections:
       - file: lessons/loops_functions/conditional_statements.ipynb
-      - file: lessons/loops_functions/For_Loop_Lesson.ipynb
-      - file: lessons/loops_functions/PyinC_while_loops_WIP.ipynb
+      - file: lessons/loops_functions/for_loops.ipynb
+      - file: lessons/loops_functions/while_loops.ipynb
       - file: lessons/loops_functions/functions_and_scope.ipynb
       - file: lessons/loops_functions/tut_import_mod.ipynb
     - file: lessons/files.md
@@ -33,6 +33,8 @@ parts:
       - file: lessons/solving_problems/errors.ipynb
       - file: lessons/solving_problems/debugging.ipynb
       - file: lessons/solving_problems/writing_a_program.ipynb
+      - file: lessons/solving_problems/version_control.ipynb
+      - file: lessons/solving_problems/command_line.ipynb
       - file: lessons/solving_problems/flowcharts.ipynb
       - file: lessons/solving_problems/style-and-comments.ipynb
     - file: lessons/common_libraries.md

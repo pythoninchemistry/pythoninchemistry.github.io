@@ -1,11 +1,16 @@
 # Opening and Using a Jupyter Notebook
+
 ## Prerequisites
 None.
+
 ## What is a Jupyter Notebook?
-Some Python code is accompanied by text and images. This kind of code is stored in a file format called a _Jupyter Notebook_. You can recognise a Jupyter Notebook because the file name ends in `.ipynb`.
+Some Python code is accompanied by text and images. This kind of code is stored in a file format called a _Jupyter Notebook_. You can recognise a Jupyter Notebook because the file name ends in `.ipynb`
+.
 ## How to open a Jupyter Notebook
 If you don't already have a Jupyter Notebook file, you can download {Download}`this one<`example_notebook`.ipynb>`.
+
 ## Instructions
+
 ### Install Anaconda
 Anaconda is a bundle of programs which can run and edit Python code. Check whether your computer has the program _Anaconda Navigator_. If not, **download Anaconda [here](https://www.anaconda.com/download/success).** If you are not sure which installer to download, choose the one from your operating system (Windows, Mac, or Linux), and select "Graphical Installer" if possible.
 

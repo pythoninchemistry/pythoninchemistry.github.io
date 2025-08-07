@@ -12,33 +12,33 @@ The Python programming language can be written on many platforms. The most commo
 
 You can write such a file in any plain text editor (e.g. Notepad or TextEdit), but it is helpful to use an editor that can write and run your code in one same place. These are called *code editors*, or if they have more features, they are called an *Integrated Development Environment* (IDE). For this lesson, we will use an IDE called *Spyder*.
 
-# Instructions
+## Instructions
 
-The first step is to install Python, there are various ways to do this listed below. We advise to use conda *via* the miniforge or Anaconda installations
+The first step is to install Python, there are various ways to do this listed below. We advise to only install one, either conda *via* the miniforge or Anaconda installations.
 
-## Installation
+### Installation
 
 <details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
-<summary style= "font-size:120%; font-weight: bold"> Miniforge Installation</summary>
+<summary style= "font-size:130%"> Miniforge Installation</summary>
 
-<h2> Install Miniforge </h2>
+<h4> Install Miniforge </h4>
 
 Miniforge is a minimal install of the *conda* and *mamba* Python package managers. It currently has no license restrictions on its use.
 
 Go to the Miniforge [repository](https://github.com/conda-forge/miniforge#install) and follow the instructions on how to install.
 
-Once installed run the following command in a terminal to make sure Python is installed
+Once installed run the following command in a terminal to make sure Python is installed:
 
 ```bash
     conda install python
 ```
-**Note** on Windows PCs it is necessary to open either *Miniforge Prompt* to run this command
+**Note** on Windows PCs it is necessary to open *Miniforge Prompt* to run this command.
 
 </details><br/>
 
 
 <details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
-<summary style= "font-size:120%; font-weight: bold"> Anaconda Installation</summary>
+<summary style= "font-size:130%"> Anaconda Installation</summary>
 
 <h4> Install Anaconda </h4>
 
@@ -54,15 +54,13 @@ Once it is downloaded, **open the installer and follow the instructions**.
 
 
 <details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
-<summary style= "font-size:120%; font-weight: bold"> Basic Python Installation</summary>
-<br/>
-The simplest way to install Python is by itself
+<summary style= "font-size:130%"> Basic Python Installation</summary>
 
-Go to the Python [downloads](https://www.python.org/downloads/) and download the latest version.
+The simplest way to install Python is by itself. Go to the Python [downloads](https://www.python.org/downloads/) and download the latest version.
 
 Once it is downloaded, **open the installer and follow the instructions**.
 
-Python is notorious for what are called **dependency issues**. To reduce the risk of these if not using a package/environment manager such as conda you should make use of *virtual environments*. These are simple to use, for an explanation see [here](https://docs.python.org/3/library/venv.html)
+Python is notorious for what are called **dependency issues**. To reduce the risk of these if not using a package/environment manager such as conda you should make use of *virtual environments*. These are simple to use, for an explanation see [here](https://docs.python.org/3/library/venv.html).
 
 To create one use the following command in a terminal
 ```bash
@@ -73,7 +71,7 @@ To create one use the following command in a terminal
 
 
 
-# Writing and running your Programme
+## Writing and running your Programme
 
 As with installing Python there are many ways to write your program, from using a text editor to using an IDE. Below we give guidance on a couple of these methods.
 
@@ -82,7 +80,7 @@ This is not an exhaustive list.
 </details><br/>
 
 <details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
-<summary style= "font-size:120%; font-weight: bold">Text Editor and Command line</summary>
+<summary style= "font-size:130%"> Text Editor and Command line</summary>
 <br/>
 Perhaps the simplest method is to write your Python code in a text editor and then run on the command line, though this lacks the power of an IDE environment to make your life easier.
 
@@ -90,7 +88,7 @@ Open the text editor of your choice and **write the following in a new file:**
 
 ```print("Hello, world!")```
 
-Make sure it is saved, for example as *hello_world.py*. 
+Make sure it is saved, for example as *hello_world.py*
 
 Open the command line window and type the following:
 
@@ -102,14 +100,16 @@ This will run your programme and print
 
 <tt> Hello World </tt>
 
-to your screen
+to your screen.
+
+For more information on using the command line, have a look at the lessons on [using the command line](../solving_problems/command_line.ipynb) and [argparse](../common_libs/argparse.ipynb). However, if you are a complete beginner, do not worry about this for now.
 
 </details><br/>
 
 
 
 <details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
-<summary style= "font-size:120%; font-weight: bold"> Spyder IDE</summary>
+<summary style= "font-size:130%"> Spyder IDE</summary>
 
 <h4> Using the Spyder IDE </h4>
 
@@ -131,7 +131,7 @@ This will open window that should look this:
 
 You may first see a pop-up suggesting to update Spyder. If so, click OK.
 
-### Write a Python program
+<h5> Write a Python program </h5>
 The left-hand pane is where you can write your program. **On line 8, paste the following text**:
 ```print("Hello, world!")```
 
@@ -144,7 +144,8 @@ This one-line program tells the computer to repeat the words "Hello, world!" to 
 Next, **save the program by pressing the "Save" button in the top ribbon** (Shortcut: Ctrl + S):
 
 ![Top ribbon with the save button circled in red.](images/save.png)
-### Run a Python program
+
+<h5> Run a Python program </h5>
 To run the program, **press the "Play" button in the top ribbon** (Shortcut: F5):
 
 ![Top ribbon with the play button circled in red.](images/run.png)
@@ -158,7 +159,7 @@ Anything that the computer writes as a result of the program is called an *outpu
 
 
 <details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
-<summary style= "font-size:120%; font-weight: bold"> VScode IDE</summary>
+<summary style= "font-size:130%"> VScode IDE</summary>
 
 <h4> Using the VScode IDE </h4>
 
@@ -184,9 +185,9 @@ Click on ```New File...``` to create a new file. Type the file name ```hello_wor
 
 ![Window with input box for text.](images/code_filename.png)
 
-VS code will then ask you where to save this file, select an appropriate directory. This will be your *work folder*
+VS code will then ask you where to save this file, select an appropriate directory. This will be your *work folder*.
 
- VS code might ask to install a Python extension, if it does **agree to this**. Once the extension is installed it will ask you to choose the Python intepreter, **choose the one you wish to use**
+ VS code might ask to install a Python extension - if it does, **agree to this**. Once the extension is installed it will ask you to choose the Python intepreter, **choose the one you wish to use**. This will depend on what you have installed. 
 ![Window with text Select Python Interpreter](images/code_choose_int.png)
 
 Enter the code in the text window
@@ -196,16 +197,16 @@ Enter the code in the text window
 
 ![Block of code with the line print("Hello, world!") written at the bottom.](images/hello_world_code.png)
 
-Save this file, either by pressing ```ctrl-s``` or ```File->Save```
+Save this file, either by pressing ```ctrl-s``` or ```File->Save```.
 
-To run click the play button in the top right
+To run click the play button in the top right.
 
-Anything that the computer writes as a result of the program is called an *output*. Read your output in the bottom pane
+Anything that the computer writes as a result of the program is called an *output*. Read your output in the bottom pane.
 
 
 </details><br/>
 
-# Advice
+## Advice
 You should now be in a position to write Python programs, or open pre-existing ones using File-> Open (Shortcut: Ctrl+O) on Spyder. There are many other Python code editors that work very similarly, such as  *PyCharm*.
 
 Some Python code does not come in Python program files. The most popular alternative is the Jupyter Notebook, which Spyder is unable to open.
