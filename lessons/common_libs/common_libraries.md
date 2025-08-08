@@ -1,6 +1,6 @@
 # Common Libraries
 
-This section will introduce you to three commonly used libraries - NumPy, Matplotlib, and Pandas. It also covers how to read the documnetation of libraries like these.
+This section will introduce you to three commonly used libraries - NumPy, Matplotlib, and Pandas. It also covers how to read the documentation of libraries like these.
 
 Depending on how you installed Python you may or may not have these libraries installed. Below we explain how you can install them
 
