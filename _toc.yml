@@ -37,7 +37,7 @@ parts:
       - file: lessons/solving_problems/command_line.ipynb
       - file: lessons/solving_problems/flowcharts.ipynb
       - file: lessons/solving_problems/style-and-comments.ipynb
-    - file: lessons/common_libraries.md
+    - file: lessons/common_libs/common_libraries.md
       sections:
       - file: lessons/common_libs/python-in-chem_pyplot_basics_SM.ipynb
       - file: lessons/common_libs/Matplotlib_Documentation.ipynb

@@ -56,6 +56,8 @@ Once it is downloaded, **open the installer and follow the instructions**.
 <details style="padding: 10px; border-radius: 2px; border: 1.5px solid gray"> 
 <summary style= "font-size:130%"> Basic Python Installation</summary>
 
+<h4> Install Python </h4>
+
 The simplest way to install Python is by itself. Go to the Python [downloads](https://www.python.org/downloads/) and download the latest version.
 
 Once it is downloaded, **open the installer and follow the instructions**.
