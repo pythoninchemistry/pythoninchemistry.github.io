@@ -33,6 +33,23 @@ conda install numpy
 
 If you installed Python using Anaconda then you have the conda package manager installed, but you will also have Anaconda Navigator installed. You can use this to manage libraries.
 
+**Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
+
+![Window showing six logos for different programs. A red arrow points to the "Environment" button.](images/navi_environ_1.png)
+
+This will then show you which packages are installed in the current *environment*.
+
+![Window showing three sections, in  the third section a list of installed libraries is shown.](images/navi_environ_2.png)
+
+Got to the dropdown in the top right which says installed. Select 'Not Installed'
+
+![Window showing three controls, one is a drop down with 'Not Installed' selected](images/navi_not_installed.png)
+
+The list will change to show libraries that can be installed. Find the one that you want and check it. A search box allows you to search the package list
+
+![Window showing three controls, one is a drop down with 'Not Installed' selected](images/navi_not_installed_list.png)
+
+
 
 </details><br/>
 
