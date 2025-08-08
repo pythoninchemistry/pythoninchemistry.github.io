@@ -173,9 +173,12 @@ If using Anaconda **Search for the program _Anaconda Navigator_ and open it**. A
 ![Window showing six logos for different programs. A red arrow points to the "Launch" button below the VS Code logo.](images/navigator_code.png)
 
 Scroll until you find the right button and **press the "Launch" under VS code.** 
+
 Otherwise find the VScode launch button on your desktop or program list and **click it.**
 
-This will open window that should look this:
+Or if on the command line type **```code .```**
+
+This will open a window that should look this:
 
 ![Window separated into two panes and with a side ribbon with many options.](images/code_clean.png)
 
