@@ -7,7 +7,7 @@
 Some Python code is accompanied by a mixture of text and images in what is called a workbook. This kind of code is stored in a file format called a _Jupyter Notebook_. You can recognise a Jupyter Notebook because the file name ends in `.ipynb`
 .
 ## How to open a Jupyter Notebook
-If you don't already have a Jupyter Notebook file, you can download [download one](/lessons/basics/downloads/example_notebook.ipynb)
+If you don't already have a Jupyter Notebook file, you can {download}`download a text file<./downloads/example_notebook.ipynb>`.
 
 ## Instructions
 
