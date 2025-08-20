@@ -1,35 +1,49 @@
 # Opening and Using a Jupyter Notebook
 
 ## Prerequisites
-None.
+- [A Python installation](/lessons/basics/write_run_python.md)
 
 ## What is a Jupyter Notebook?
-Some Python code is accompanied by text and images. This kind of code is stored in a file format called a _Jupyter Notebook_. You can recognise a Jupyter Notebook because the file name ends in `.ipynb`
+Some Python code is accompanied by a mixture of text and images in what is called a workbook. This kind of code is stored in a file format called a _Jupyter Notebook_. You can recognise a Jupyter Notebook because the file name ends in `.ipynb`
 .
 ## How to open a Jupyter Notebook
-If you don't already have a Jupyter Notebook file, you can download {Download}`this one<`example_notebook`.ipynb>`.
+If you don't already have a Jupyter Notebook file, you can {download}`download a text file<./downloads/example_notebook.ipynb>`.
 
 ## Instructions
 
-### Install Anaconda
-Anaconda is a bundle of programs which can run and edit Python code. Check whether your computer has the program _Anaconda Navigator_. If not, **download Anaconda [here](https://www.anaconda.com/download/success).** If you are not sure which installer to download, choose the one from your operating system (Windows, Mac, or Linux), and select "Graphical Installer" if possible.
+If you installed Python using [Anaconda](/lessons/basics/write_run_python.md#installation) then Jupyter will have already been installed. If you used a different method you might need to install it. 
 
-Once it is downloaded, **open the installer and follow the instructions**.
+If you used conda then use the following command:
+
+```bash
+conda install conda-forge::jupyter
+```
+
+if you made a basic Python install then use pip:
+```bash
+pip install jupyter
+```
 
 ### Open JupyterLab
-**Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
+If using Anaconda **Search for the program _Anaconda Navigator_ and open it**. After a few seconds, you should see a window like this appear:
 
-![Window showing six logos for different programs. A red arrow points to the "Launch" button below the top right logo.](navigator_jupyterlab.png)
+![Window showing six logos for different programs. A red arrow points to the "Launch" button below the top right logo.](/lessons/basics/images/navigator_jupyterlab.png)
 
-**Press the "Launch" under JupyterLab.** This will open a tab on your default web browser which should look like this:
+**Press the "Launch" under JupyterLab.** 
 
-![Window showing a folder navigation menu on the left and a Python 3 logo on the right.](jupyterlab.png)
+Otherwise from a terminal type:
+```bash
+jupyter lab
+```
+This will open a tab on your default web browser which should look like this:
+
+![Window showing a folder navigation menu on the left and a Python 3 logo on the right.](/lessons/basics/images/jupyterlab.png)
 
 Look at the address bar at the top of your browser. It should read `localhost` followed by some numbers. This means that you are not actually accessing the internet, despite being on a web browser. The page is generated locally by your computer, so you don't need an internet connection to work on your Jupyter Notebook.
 
 **In the sidebar on the left, search through your folders for your `.ipynb` file and double-click on it.** If you just downloaded this file, it might be in your _Downloads_ folder. Your screen should now show this:
 
-![Screenshot of a Jupyter Notebook.](example_notebook.png)
+![Screenshot of a Jupyter Notebook.](/lessons/basics/images/example_notebook.png)
 
 You have just opened the Jupyter Notebook.
 
@@ -40,21 +54,21 @@ There are two important kinds of cells: _Markdown_ and _Code_.
 
 You can tell what kind a cell is by looking at the top ribbon:
 
-![Top bar of the Jupyter Notebook with the word "Markdown" circled in red.](top_bar.png)
+![Top bar of the Jupyter Notebook with the word "Markdown" circled in red.](/lessons/basics/images/top_bar.png)
 
 ### Markdown cells
 Markdown cells can contain formatted text and images. To change this content, **double-click on the cell**. This will show you the unformatted text, which has been written using a language called "Markdown":
 
-![A box of raw Markdown text.](raw_markdown.png)
+![A box of raw Markdown text.](/lessons/basics/images/raw_markdown.png)
 
 To make the text appear formatted again, make sure that the cell is selected, and **click on the "Run" button in the top ribbon** (Shortcut: Shift + Enter):
 
-![Top bar of the Jupyter Notebook with the "run" triangle circled in red.](run_button.png)
+![Top bar of the Jupyter Notebook with the "run" triangle circled in red.](/lessons/basics/images/run_button.png)
 
 ### Code cells
 Code cells contain programming code; in this case—Python. **Select the code cell, and run it, just like you ran the Markdown cell.** The result should look like this:
 
-![Code cell showing "print(753+247)", and below, the result: 1000.](code_cell.png)
+![Code cell showing "print(753+247)", and below, the result: 1000.](/lessons/basics/images/code_cell.png)
 
 Observe how the output of the Python code (the number 1000) is printed below the cell. Additionally, a new empty code cell was created below, to let you continue writing code.
 
