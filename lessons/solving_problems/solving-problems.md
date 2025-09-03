@@ -1,6 +1,6 @@
-# Approaching Problems
+# Approaching Coding Problems
 
-How to approach a problem, how to debug, and how to represent your problem/program.
+In this section there is some guidance on how to approach a coding problem, how to debug your code and how to represent your problem/program in a descriptive manner.
 
-## As well as a style guide
+There is also a worked example of how to go from a question and blank file to a working programme
 

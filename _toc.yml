@@ -16,19 +16,19 @@ parts:
       - file: lessons/variables/Variable_data_types.ipynb
       - file: lessons/variables/mathematical_operators.ipynb
       - file: lessons/variables/Comparisons.ipynb
-    - file: lessons/organising_code.md
+    - file: lessons/loops_functions/organising_code.md
       sections:
       - file: lessons/loops_functions/conditional_statements.ipynb
       - file: lessons/loops_functions/for_loops.ipynb
       - file: lessons/loops_functions/while_loops.ipynb
       - file: lessons/loops_functions/functions_and_scope.ipynb
       - file: lessons/loops_functions/tut_import_mod.ipynb
-    - file: lessons/files.md
+    - file: lessons/files/files.md
       sections:
       - file: lessons/files/files_file_types.ipynb
       - file: lessons/files/reading_files.ipynb
       - file: lessons/files/writing_files.ipynb
-    - file: lessons/solving-problems.md
+    - file: lessons/solving_problems/solving-problems.md
       sections:
       - file: lessons/solving_problems/errors.ipynb
       - file: lessons/solving_problems/debugging.ipynb
