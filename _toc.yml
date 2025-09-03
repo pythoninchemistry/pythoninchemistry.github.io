@@ -30,7 +30,7 @@ parts:
       - file: lessons/files/writing_files.ipynb
     - file: lessons/solving_problems/solving-problems.md
       sections:
-      - file: lessons/solving_problems/errors.ipynb
+      - file: lessons/solving_problems/errors_and_debug.ipynb
       - file: lessons/solving_problems/debugging.ipynb
       - file: lessons/solving_problems/writing_a_program.ipynb
       - file: lessons/solving_problems/version_control.ipynb
