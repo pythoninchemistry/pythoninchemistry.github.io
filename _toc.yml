@@ -31,7 +31,6 @@ parts:
     - file: lessons/solving_problems/solving-problems.md
       sections:
       - file: lessons/solving_problems/errors_and_debug.ipynb
-      - file: lessons/solving_problems/debugging.ipynb
       - file: lessons/solving_problems/writing_a_program.ipynb
       - file: lessons/solving_problems/version_control.ipynb
       - file: lessons/solving_problems/command_line.ipynb
