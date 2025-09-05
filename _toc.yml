@@ -11,7 +11,7 @@ parts:
       - file: lessons/basics/write_run_python.md
       - file: lessons/basics/using_jupyter_notebook.md
       - file: lessons/basics/python_introduction.ipynb
-    - file: lessons/manipulating_variables.md
+    - file: lessons/variables/manipulating_variables.md
       sections:
       - file: lessons/variables/Variable_data_types.ipynb
       - file: lessons/variables/mathematical_operators.ipynb
@@ -44,7 +44,7 @@ parts:
       - file: lessons/common_libs/NumPy_axes_operations.ipynb
       - file: lessons/common_libs/argparse.ipynb
       - file: lessons/common_libs/intro_to_pandas.ipynb
-    - file: lessons/advanced_libraries.md
+    - file: lessons/advanced_libs/advanced_libraries.md
       sections:
       - file: lessons/advanced_libs/Intro_to_ASE.ipynb
       - file: lessons/advanced_libs/PiC_scipy.ipynb
