@@ -49,6 +49,9 @@ parts:
       - file: lessons/advanced_libs/Intro_to_ASE.ipynb
       - file: lessons/advanced_libs/PiC_scipy.ipynb
       - file: lessons/advanced_libs/RDKit_drawing.ipynb
+    - file: lessons/further_info/further_info.md
+      sections:
+      - file: lessons/further_info/numerical_errors.ipynb
   - caption: Teaching Python in Chemistry Meeting Blogs
     chapters:
     - file: 2025-meeting
