@@ -14,6 +14,7 @@ parts:
     - file: lessons/variables/manipulating_variables.md
       sections:
       - file: lessons/variables/Variable_data_types.ipynb
+      - file: lessons/variables/lists_and_indexing.ipynb
       - file: lessons/variables/mathematical_operators.ipynb
       - file: lessons/variables/Comparisons.ipynb
     - file: lessons/loops_functions/organising_code.md
