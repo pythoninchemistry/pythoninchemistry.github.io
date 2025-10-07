@@ -14,6 +14,7 @@ parts:
     - file: lessons/variables/manipulating_variables.md
       sections:
       - file: lessons/variables/Variable_data_types.ipynb
+      - file: lessons/variables/lists_and_indexing.ipynb
       - file: lessons/variables/mathematical_operators.ipynb
       - file: lessons/variables/Comparisons.ipynb
     - file: lessons/loops_functions/organising_code.md
@@ -33,7 +34,7 @@ parts:
       - file: lessons/solving_problems/errors_and_debug.ipynb
       - file: lessons/solving_problems/writing_a_program.ipynb
       - file: lessons/solving_problems/version_control.ipynb
-      - file: lessons/solving_problems/command_line.ipynb
+      - file: lessons/solving_problems/command_line.md
       - file: lessons/solving_problems/flowcharts.ipynb
       - file: lessons/solving_problems/style-and-comments.ipynb
     - file: lessons/common_libs/common_libraries.md
@@ -49,6 +50,9 @@ parts:
       - file: lessons/advanced_libs/Intro_to_ASE.ipynb
       - file: lessons/advanced_libs/PiC_scipy.ipynb
       - file: lessons/advanced_libs/RDKit_drawing.ipynb
+    - file: lessons/further_info/further_info.md
+      sections:
+      - file: lessons/further_info/numerical_errors.ipynb
   - caption: Teaching Python in Chemistry Meeting Blogs
     chapters:
     - file: 2025-meeting
