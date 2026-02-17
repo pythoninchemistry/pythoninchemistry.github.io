@@ -7,8 +7,11 @@ author: The Python in Chemistry Community
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
+
+only_build_toc_files: true
 execute:
   execute_notebooks: force
+  allow_errors: true
 
 # Define the name of the latex output file for PDF builds
 latex:
