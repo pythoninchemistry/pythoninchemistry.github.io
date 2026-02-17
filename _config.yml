@@ -11,7 +11,7 @@ author: The Python in Chemistry Community
 only_build_toc_files: true
 execute:
   execute_notebooks: force
-  allow_errors: true
+    #  allow_errors: true
 
 # Define the name of the latex output file for PDF builds
 latex:
