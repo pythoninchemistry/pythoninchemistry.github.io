@@ -2,7 +2,7 @@
 
 <hr>
 
-The 2026 Python in Chemistry Meeting will take place on at Manchester Metropolitan University on **Wednesday 20th May**. To register, please complete [this form](https://forms.gle/A3im2wWJnqBNrGEK6).
+The 2026 Python in Chemistry Meeting will take place on at Manchester Metropolitan University on **Wednesday 20th May**. To register, please complete [this form](https://cdn.dribbble.com/userupload/21563026/file/original-a44d91cec645a143d0fc2fbdbb017cf4.gif).
 
 <hr>
 
@@ -12,7 +12,7 @@ In discussions at the previous two Python in Chemistry Meetings, it has become c
 
 ## Meeting details
 
-The meeting will take place at the [Chemistry Department of Manchester Metropolitan University](https://maps.app.goo.gl/td3TV7wZ8cZaNALL8) on **Wednesday 20th May**, beginning at 11:00 and ending at 17:00. Lunch and other refreshments will be provided.
+The meeting will take place at the [Chemistry Department of Manchester Metropolitan University](https://maps.app.goo.gl/YqiDKv5jbspgMpJ39) on **Wednesday 20th May**, beginning at 11:00 and ending at 16:30. Lunch and other refreshments will be provided.
 
 Attendance is free.
 
@@ -32,4 +32,4 @@ Detailed programme to follow.
 
 <hr>
 
-To register for the meeting, please complete [this form](https://forms.gle/XneX3kRxf8QG6qpf8). 
+To register for the meeting, please complete [this form](https://cdn.dribbble.com/userupload/21563026/file/original-a44d91cec645a143d0fc2fbdbb017cf4.gif). 
