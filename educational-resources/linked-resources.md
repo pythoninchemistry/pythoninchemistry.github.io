@@ -6,3 +6,4 @@ Here is a list of resources that we are linking to that have been developed by o
 - [Topics in Computational Chemistry](https://github.com/pythoninchemistry/ch40208) from University of Bath's [Department of Chemistry](https://www.bath.ac.uk/departments/department-of-chemistry/)
 - [Pythonic Chemistry](https://github.com/jherasdo/pythonic-chemistry) from the [Institute of Chemical Research of Catalonia](https://www.iciq.org/)
 - [Drug Discovery with Python](https://github.com/alex-aziz/Drug-Discovery-with-Python) from Manchester Metropolitan University [Department of Natural Sciences](https://www.mmu.ac.uk/about-us/faculties/science-engineering/departments/natural-sciences).
+- [Strategy-First Programming for Chemistry](https://github.com/alanmlewis/ProgrammingforChem) from the University of York's [Department of Chemistry](https://www.york.ac.uk/chemistry/)
