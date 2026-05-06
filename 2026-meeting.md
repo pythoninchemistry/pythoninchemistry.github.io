@@ -22,7 +22,29 @@ There are some funds available for travel costs; thanks to the RSC HE Group and 
 
 ## Programme
 
-Detailed programme to follow.
+**10:30-11:00** Arrival
+
+**11:00-11:15** Welcome, introduction and goals of the meeting
+
+**11:15-11:40** Matt Addicoat, Nottingham Trent University
+
+**11:40-12:05** Stuart Warriner et al, University of Leeds
+
+**12:05-12:45** Discussions: Delivery methods for Python teaching; Embedding Python teaching across the chemistry curriculum.
+
+**12:45-13:30** Lunch
+
+**13:30-13:55** Oscar Siles Brugge, University of Nottingham
+
+**13:55-14:20** Caroline Evans, Wellington College
+
+**14:20-15:00** Discussions: AI tools for Python teaching; collaboration between schools and universities to support digital skills.
+
+**15:00-15:30** Break
+
+**15:30-16:30** Sharing and development of teaching material
+
+**16:30** Close of the meeting
 
 ## Getting to MMU
 
