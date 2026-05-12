@@ -1,0 +1,5 @@
+water
+oxygen
+carbon dioxide
+ammonia
+methane

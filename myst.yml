@@ -1,0 +1,60 @@
+version: 1
+project:
+  title: Python in Chemistry
+  authors:
+    - name: The Python in Chemistry Community 
+  copyright: '2026'
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  jupyter: true
+  toc:
+    - file: lessons/lessons_intro.md
+    - title: Python Lessons
+      children:
+        - file: lessons/first_steps/landing.md
+          children:
+            - file: lessons/first_steps/write_run_python.md
+            - file: lessons/first_steps/example.md
+        - file: lessons/variables/landing.md
+          children:
+            - file: lessons/variables/data_types.md
+            - file: lessons/variables/lists.md
+            - file: lessons/variables/mathematical_operators.md
+        - file: lessons/control_flow/landing.md
+          children:
+            - file: lessons/control_flow/if_statements.md
+            - file: lessons/control_flow/for_loops.md
+            - file: lessons/control_flow/while_loops.md
+            - file: lessons/control_flow/functions.md
+        - file: lessons/files/landing.md
+        - file: lessons/exercises/landing.md
+          children:
+            - file: lessons/exercises/exercise_1/ex_1.ipynb
+            - file: lessons/exercises/exercise_2/ex_2.ipynb
+            - file: lessons/exercises/exercise_3/ex_3.ipynb
+            - file: lessons/exercises/exercise_4/ex_4.ipynb
+    - title: Blog
+      children:
+        - file: 2025-meeting
+        - file: state-of-teaching
+        - file: resources
+    - title: Community Documentation
+      children:
+        - file: community-docs/code-of-conduct
+        - file: community-docs/contributing
+    - title: Educational Resources
+      children:
+      - file: educational-resources/linked-resources
+      - file: educational-resources/contributing
+site:
+  options:
+    favicon: logo/favicon.ico
+    logo: logo/logo-light.png
+    logo_dark: logo/logo-dark.png
+    folders: true
+  template: book-theme
+
