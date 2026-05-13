@@ -7,3 +7,4 @@ Here is a list of resources that we are linking to that have been developed by o
 - [Pythonic Chemistry](https://github.com/jherasdo/pythonic-chemistry) from the [Institute of Chemical Research of Catalonia](https://www.iciq.org/)
 - [Drug Discovery with Python](https://github.com/alex-aziz/Drug-Discovery-with-Python) from Manchester Metropolitan University [Department of Natural Sciences](https://www.mmu.ac.uk/about-us/faculties/science-engineering/departments/natural-sciences).
 - [Strategy-First Programming for Chemistry](https://github.com/alanmlewis/ProgrammingforChem) from the University of York's [Department of Chemistry](https://www.york.ac.uk/chemistry/)
+- [SMART workshop for teaching electrochemistry](https://github.com/Perry-SC/OSPREY_echem), from the University of Southampton's [School of Chemistry](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-chemistry-and-chemical-engineering)
