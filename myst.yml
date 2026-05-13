@@ -39,6 +39,7 @@ project:
             - file: lessons/exercises/exercise_4/ex_4.ipynb
     - title: Blog
       children:
+        - file: 2026-meeting
         - file: 2025-meeting
         - file: state-of-teaching
         - file: resources
