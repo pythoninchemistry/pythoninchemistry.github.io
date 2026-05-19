@@ -50,7 +50,7 @@ jobs:
       - name: Generate JB1 Redirects
         run: |
            pip install click pyyaml
-           curl -sO https://raw.githubusercontent.com/jupyter-book/jb1-redirect-generator/main/generate_redirects.py
+           curl -sO https://github.com/alanmlewis/jb1-redirect-generator/raw/refs/heads/main/generate_redirects.py
            python generate_redirects.py --base-url https://pythoninchemistry.org
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
