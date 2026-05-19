@@ -46,6 +46,12 @@ jobs:
             pip install -r requirements.txt
       - name: Build HTML Assets
         run: jupyter-book build --execute --html
+      # Generate old-style .html files that redirect to the new pretty URLs
+      - name: Generate JB1 Redirects
+        run: |
+           pip install click pyyaml
+           curl -sO https://raw.githubusercontent.com/jupyter-book/jb1-redirect-generator/main/generate_redirects.py
+           python generate_redirects.py --base-url https://pythoninchemistry.org
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
