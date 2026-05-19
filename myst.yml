@@ -6,7 +6,6 @@ project:
   copyright: '2026'
   bibliography:
     - references.bib
-  url: https://pythoninchemistry.org
   exports:
     - format: pdf
       template: plain_latex_book
@@ -15,7 +14,7 @@ project:
   toc:
     - file: intro.md
     - title: Python Lessons
-    - file: lessons/lessons_intro.md
+      file: lessons/lessons_intro.md
       children:
         - file: lessons/first_steps/landing.md
           children:
@@ -41,18 +40,18 @@ project:
             - file: lessons/exercises/exercise_4/ex_4.ipynb
     - title: Blog
       children:
-        - file: 2026-meeting
-        - file: 2025-meeting
-        - file: state-of-teaching
-        - file: resources
+        - file: 2026-meeting.md
+        - file: 2025-meeting.md
+        - file: state-of-teaching.md
+        - file: resources.md
     - title: Community Documentation
       children:
-        - file: community-docs/code-of-conduct
-        - file: community-docs/contributing
+        - file: community-docs/code-of-conduct.md
+        - file: community-docs/contributing.md
     - title: Educational Resources
       children:
-      - file: educational-resources/linked-resources
-      - file: educational-resources/contributing
+        - file: educational-resources/linked-resources.md
+        - file: educational-resources/contributing.md
 site:
   options:
     favicon: logo/favicon.ico

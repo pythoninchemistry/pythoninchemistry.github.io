@@ -9,7 +9,7 @@ The 2026 Python in Chemistry Meeting will take place on at Manchester Metropolit
 
 The goal of the meeting is to share different approaches to Python teaching adopted in different institutions, and to support educators who are looking to introduce or expand Python-based teaching in their departments. More details are available [here](https://pythoninchemistry.org/2026-meeting.html).
 
-### Python Lessons
+### [Python Lessons](lessons/lessons_intro.md)
 
 At the 2025 Python in Chemistry Meeting, participants developed a series of lessons introducing different aspects of Python. These have been further developed by Miguel Rivera, Tarabella Middleton, and Michael Parkes of UCL into the form currently on the website.
 
