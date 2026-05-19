@@ -6,6 +6,7 @@ project:
   copyright: '2026'
   bibliography:
     - references.bib
+  url: https://pythoninchemistry.org
   exports:
     - format: pdf
       template: plain_latex_book
