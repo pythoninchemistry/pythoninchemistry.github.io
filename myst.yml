@@ -13,8 +13,9 @@ project:
       output: exports/book.pdf
   jupyter: true
   toc:
-    - file: lessons/lessons_intro.md
+    - file: intro.md
     - title: Python Lessons
+    - file: lessons/lessons_intro.md
       children:
         - file: lessons/first_steps/landing.md
           children:
