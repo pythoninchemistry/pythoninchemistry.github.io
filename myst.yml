@@ -1,6 +1,10 @@
 version: 1
 project:
   title: Python in Chemistry
+
+  github: pythoninchemistry/pythoninchemistry.github.io
+  jupyter: true
+
   authors:
     - name: The Python in Chemistry Community 
   copyright: '2026'
@@ -10,7 +14,6 @@ project:
     - format: pdf
       template: plain_latex_book
       output: exports/book.pdf
-  jupyter: true
   toc:
     - file: intro.md
     - title: Python Lessons
@@ -52,6 +55,8 @@ project:
       children:
         - file: educational-resources/linked-resources.md
         - file: educational-resources/contributing.md
+        - file: educational-resources/UsingMCQs.ipynb
+        - file: educational-resources/UsingParsonsProblems.ipynb
 site:
   options:
     favicon: logo/favicon.ico
