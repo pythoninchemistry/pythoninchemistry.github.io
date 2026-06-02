@@ -38,7 +38,7 @@ project:
         - file: lessons/exercises/landing.md
           children:
             - file: lessons/exercises/exercise_1/ex_1.ipynb
-            - file: lessons/exercises/exercise_2/ex_2.ipynb
+#            - file: lessons/exercises/exercise_2/ex_2.ipynb
             - file: lessons/exercises/exercise_3/ex_3.ipynb
             - file: lessons/exercises/exercise_4/ex_4.ipynb
     - title: Blog
